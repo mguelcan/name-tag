@@ -12,4 +12,7 @@ basic.forever(function () {
     basic.pause(1000)
     wuKong.setServoAngle(wuKong.ServoTypeList._180, wuKong.ServoList.S0, 100)
     basic.pause(1000)
+    for (let index = 0; index < 4; index++) {
+    	
+    }
 })
