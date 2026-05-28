@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.9"
+        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.9",
+        "Name Tag": "github:mguelcan/name-tag#f9251650805b1728f348b55513573e5ac389884d"
     },
     "files": [
         "main.blocks",
